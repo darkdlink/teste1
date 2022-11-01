@@ -92,3 +92,6 @@ while not fgExit:
     clock.tick(60)
 
 pygame.quit()
+
+teste
+teste
